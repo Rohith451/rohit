@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rohit/static/css/main.66022aa3.css",
+    "main.js": "/rohit/static/js/main.11f53b91.js",
+    "static/js/453.de0aeb1a.chunk.js": "/rohit/static/js/453.de0aeb1a.chunk.js",
+    "static/media/RohithCV.pdf": "/rohit/static/media/RohithCV.b67c9fbb2d5522eb59a2.pdf",
+    "static/media/urlShortener.png": "/rohit/static/media/urlShortener.13a0d5d2c67c81a5c97b.png",
+    "static/media/icon-black.png": "/rohit/static/media/icon-black.3e5984feb9629d99995b.png",
+    "static/media/Bankist.jpeg": "/rohit/static/media/Bankist.7957967811a479c5370a.jpeg",
+    "static/media/Edgy.jpeg": "/rohit/static/media/Edgy.696f79da8aa8b1f98380.jpeg",
+    "static/media/RestCountries.jpeg": "/rohit/static/media/RestCountries.24c4bad7db2b5553e71f.jpeg",
+    "static/media/github-pink.svg": "/rohit/static/media/github-pink.fca99db0960eca67e137a0d38741f5d2.svg",
+    "index.html": "/rohit/index.html",
+    "static/media/codepen-pink.svg": "/rohit/static/media/codepen-pink.fd2bb2d813529dc2b2c48296c7adcf3b.svg",
+    "static/media/linkedin-pink.svg": "/rohit/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
+    "main.66022aa3.css.map": "/rohit/static/css/main.66022aa3.css.map",
+    "main.11f53b91.js.map": "/rohit/static/js/main.11f53b91.js.map",
+    "453.de0aeb1a.chunk.js.map": "/rohit/static/js/453.de0aeb1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66022aa3.css",
+    "static/js/main.11f53b91.js"
+  ]
+}
