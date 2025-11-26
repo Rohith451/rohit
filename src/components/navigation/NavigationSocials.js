@@ -7,21 +7,21 @@ const NavigationSocials = () => {
   return (
     <section className="navigation__socials">
       <a
-        href="https://www.linkedin.com/in/catherinemitagvaria/"
+        href="https://www.linkedin.com/in/o-rohith-reddy-108636282/"
         target="_blank"
         rel="noopener noreferrer"
       >
         <img src={Linkedin} alt="LinkedIn profile" />
       </a>
       <a
-        href="https://github.com/catherineisonline"
+        href="https://github.com/Rohith451"
         target="_blank"
         rel="noopener noreferrer"
       >
         <img src={Github} alt="GitHub" />
       </a>
       <a
-        href="https://codepen.io/catherineisonline"
+        href="https://leetcode.com/u/o_Rohith_reddy/"
         target="_blank"
         rel="noopener noreferrer"
       >
